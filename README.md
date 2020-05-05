@@ -1,5 +1,6 @@
-### High Test 软件测试平台
-
+# High Test 软件测试平台
+### 目录结构
+- 
 
 ### 安装依赖
 - Mac上:PATH="$PATH":/usr/local/mysql/bin/
