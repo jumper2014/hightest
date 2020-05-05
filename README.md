@@ -1,6 +1,8 @@
 # High Test 软件测试平台
 ### 目录结构
-- 
+- frontend 前端
+- highapp 应用
+- README.md 说明
 
 ### 安装依赖
 - Mac上:PATH="$PATH":/usr/local/mysql/bin/
