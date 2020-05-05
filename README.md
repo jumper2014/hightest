@@ -10,6 +10,7 @@
 - python manage.py runserver
 
 ### 编译前端
+- cd frontend
 - npm run build
 
 
